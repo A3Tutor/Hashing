@@ -1,0 +1,3 @@
+{}{}{}{Hello}{What}{Who}{Trap}{slow}{fast}{yes}{}{}{}{}21
+{Hello}{Trap}{yes}{}{}{slow}{}{}{Who}{}{fast}{}{What}{}1
+{}{slow}{}{}{}{Hello}{Who}{fast}{What}{}{}{Trap}{yes}{}2
